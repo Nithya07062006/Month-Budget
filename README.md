@@ -8,6 +8,7 @@
 - Sample UI: `components/sample.tsx`
 
 ---
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/28f8f6d4-f52e-4613-b5ce-8c667fd4a176" />
 
 
 # File 1: `lib/contract.ts`
